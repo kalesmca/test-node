@@ -10,7 +10,7 @@
     * babel-preset-stage-3      # for async-await syntax
 * add config for app configuration
 
-* directory structure
+* directory structures
 ```sh
 $ tree
 ├── LICENSE
